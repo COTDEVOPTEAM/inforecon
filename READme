@@ -10,7 +10,10 @@ This is the repository for my personal website. It includes several pages such a
     - jenny.png
 - **Public**
   - about.html
-  - blog.html
+      -**blog**-
+           **post1.html**-
+           **post2.html**-
+           **post3.html**-
   - contact.html
   - gallery.html
   - videos.html
