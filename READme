@@ -1,1 +1,21 @@
 inforecon
+# My Personal Website
+
+This is the repository for my personal website. It includes several pages such as About, Blog, Contact, Gallery, and Videos.
+
+## Structure
+
+- **Assets**
+  - **Images**
+    - jenny.png
+- **Public**
+  - about.html
+  - blog.html
+  - contact.html
+  - gallery.html
+  - videos.html
+- index.html
+
+## Instructions
+
+To view the website, open `index.html` in your web browser.
